@@ -1,0 +1,20 @@
+#image{
+    border-radius: 50px;
+    width: 100%;
+}
+h1{
+    color: #000;
+} 
+h2{
+    color: #44D926;
+    font-family: Quicksand;
+}
+#col2{
+    background-color: #F6F6F6;
+}
+#buttom{
+    justify-items: center;
+}
+p{
+    color: red;
+}

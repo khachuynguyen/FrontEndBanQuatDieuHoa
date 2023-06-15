@@ -1,0 +1,19 @@
+#card{
+    margin: 20px;
+    font-weight: 600;
+}
+#cardimage{
+    min-height: 100px;
+}
+p{
+    color: black !important;
+}
+#line-through{
+    text-decoration: line-through;
+    color: black;
+}
+#card-price{
+    color: red;
+    display: flex;
+    justify-content: space-between;
+}
